@@ -1,4 +1,4 @@
-package com.example.roomdatabase
+package com.example.roomdatabase.presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
